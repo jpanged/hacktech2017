@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 # 27 May 2015
 
+# Russell was here!
+
 ###########################################################################
 # Copyright (c) 2015 iRobot Corporation
 # http://www.irobot.com/
